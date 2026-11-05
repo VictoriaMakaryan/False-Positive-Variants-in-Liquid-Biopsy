@@ -1,0 +1,8 @@
+example_id,variant_qual,t_alt_count,Avg_Min_Distance_ALT_reads
+synthetic_01,500,40,35
+synthetic_02,100,10,10
+synthetic_03,380,32,25
+synthetic_04,381,31,25
+synthetic_05,100,10,20
+synthetic_06,500,40,5
+synthetic_07,,,
